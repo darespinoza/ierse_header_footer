@@ -34,22 +34,6 @@ body{
     color: #ffffff;
 }
 
-.wht_txt{
-    color: #ffffff;
-}
-
-.wht_txt:hover{
-    color: #ffffff;
-}
-
-.wht_txt:visited{
-    color: #ffffff;
-}
-
-.wht_txt:link{
-    color: #ffffff;
-}
-
 .footer-clr{
     background-color: #3E93C5 !important;
     padding-top: 20px;
