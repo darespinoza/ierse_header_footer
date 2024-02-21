@@ -25,6 +25,16 @@ body{
     color: #ffffff;
 }
 
+.uda-srvs-clr:visited {
+    background-color: #36393A;
+    color: #ffffff;
+}
+
+.uda-srvs-clr:link {
+    background-color: #36393A;
+    color: #ffffff;
+}
+
 .uda-ierse-bar {
     height:86px;
 }
